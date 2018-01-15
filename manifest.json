@@ -14,7 +14,8 @@
     {
       "matches": ["*://*.facebook.com/*"],
       "js": ["faceblock.js"],
-      "css": ["faceblock.css"]
+      "css": ["faceblock.css"],
+      "run_at": "document_start"
     }
   ],
 
