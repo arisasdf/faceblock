@@ -15,7 +15,7 @@
       "matches": ["*://*.facebook.com/*"],
       "js": ["faceblock.js"],
       "css": ["faceblock.css"],
-      "run_at": "document_start"
+      "run_at": "document_end"
     }
   ],
 
