@@ -1,0 +1,22 @@
+#facebook ._-kb h1,
+#facebook ._-kb h2,
+#facebook ._-kb h3 {
+  font-family: "Unica One";
+  font-weight: normal;
+  text-align: center;
+}
+
+#facebook ._-kb h1 {
+  font-size: 150px;
+  margin-top: 100px;
+}
+
+#facebook ._-kb h2 {
+  font-size: 100px;
+  margin-top: 50px;
+}
+
+#facebook ._-kb h3 {
+  margin-top: 15px;
+  font-size: 40px;
+}
