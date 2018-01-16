@@ -12,6 +12,7 @@
 
   "content_scripts": [
     {
+      "exclude_matches": ["*://*.facebook.com/messages*"],
       "matches": ["*://*.facebook.com/*"],
       "js": ["faceblock.js"],
       "css": ["faceblock.css"],
